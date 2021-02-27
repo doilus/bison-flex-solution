@@ -4,7 +4,7 @@
 * [Language grammar](#language-grammar)
 
 # General info
-This is an code analyzer and calculator for expressions on strings.
+This is a code analyzer and calculator for expressions on strings.
 
 # Task
 * use Flex and Bison for C++
